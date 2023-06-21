@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou o Leo</h1>
+<h1 align="center">Olá 🐱‍👤, sou o Leo</h1>
 <h3 align="center">Entusiasta de tecnologia desbravando o mundo da programação.</h3>
 
 <br></br>

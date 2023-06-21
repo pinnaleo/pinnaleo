@@ -2,7 +2,7 @@
 <h3 align="center">Entusiasta de tecnologia desbravando o mundo da programação.</h3>
 
 <br></br>
-- 🌱 Atualmente estou estudando **Javascript**
+- 🌱 Atualmente estudando **Javascript**
 
 
 <h2></h2>

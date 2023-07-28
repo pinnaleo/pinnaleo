@@ -6,7 +6,7 @@
 
 
 <h2></h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinnaleo&theme=ocean_dark&show_icons=true&locale=en&layout=compact" alt="pinnaleo"/></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=pinnaleo&theme=ocean_dark&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=pinnaleo&theme=ocean_dark&show_icons=true&locale=en&layout=compact)" alt="pinnaleo"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinnaleo&theme=ocean_dark&show_icons=true&locale=en" alt="pinnaleo"/></p>
 
 

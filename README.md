@@ -2,10 +2,11 @@
 <h3 align="center">Entusiasta de tecnologia desbravando o mundo da computação.</h3>
 
 <br>
-- 🌱 Atualmente estudando **Javascript**
+- 🌱 Atualmente estudando **Javascript**<br>
 
-![pinnaleo's github stats](https://github-readme-stats.vercel.app/api?username=pinnaleo) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinnaleo)](https://github.com/pinnaleo/github-readme-stats)
+![pinnaleo's github stats](https://github-readme-stats.vercel.app/api?username=pinnaleo) <br>
+
 
 <h2></h2>
 

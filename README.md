@@ -1,9 +1,10 @@
 <h1 align="center">Olá 🐱‍👤, sou o Leo</h1>
 <h3 align="center">Entusiasta de tecnologia desbravando o mundo da computação.</h3>
 
-<br></br>
+<br>
 - 🌱 Atualmente estudando **Javascript**
 
+![pinnaleo's github stats](https://github-readme-stats.vercel.app/api?username=pinnaleo)
 
 <h2></h2>
 

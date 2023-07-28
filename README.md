@@ -4,6 +4,8 @@
 <br>
 - 🌱 Atualmente estudando **Javascript**<br>
 
+<h2></h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinnaleo)](https://github.com/pinnaleo/github-readme-stats)
 ![pinnaleo's github stats](https://github-readme-stats.vercel.app/api?username=pinnaleo) <br>
 
